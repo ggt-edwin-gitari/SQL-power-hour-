@@ -59,3 +59,4 @@ ORDER BY c.company_code ASC;
 - Use `LEFT JOIN` when you need to retain all records from the main table.
 - Group by every non-aggregated column in the SELECT statement.
 - Remember that company codes are strings, so ascending order is alphabetical rather than numeric.
+
